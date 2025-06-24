@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"diabetes.jpg",
+        "imagesrc":"diabetes.jpeg",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"presion.jpg",
+        "imagesrc":"presion.webp",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
